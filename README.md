@@ -1,3 +1,9 @@
-# Senior-Project
+#Senior Cap stone
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/cereup/Senior-Project)
+#React Native
+
+#npm install 
+#npx expo start
+
+#Install the expo app 
+#Scan QR Code
