@@ -1,9 +1,9 @@
-#Senior Cap stone
+# Senior Cap stone
 
-#React Native
+# React Native
 
-#npm install 
-#npx expo start
+# npm install 
+# npx expo start
 
-#Install the expo app 
-#Scan QR Code
+# Install the expo app 
+# Scan QR Code
